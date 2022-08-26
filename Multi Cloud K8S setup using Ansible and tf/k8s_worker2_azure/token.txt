@@ -1,0 +1,1 @@
+kubeadm join 65.0.183.142:6443 --token 1frnpx.3ou8b2phyzacpcim --discovery-token-ca-cert-hash sha256:b3b5f83b110e9c10d0419d1f93e267d2cbbc6e13d2a89b002f70dc6c0e930ee1 
